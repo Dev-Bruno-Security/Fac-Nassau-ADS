@@ -1,7 +1,8 @@
 # TESTE FACULDADE
 ## _Edição teste
 
-[![N|Solid][<img width="1024" height="519" alt="image" src="https://github.com/user-attachments/assets/973142cc-99b5-4bad-b956-f7cd5c318eca" />
+[![N|Solid][<img width="474" height="266" alt="image" src="https://github.com/user-attachments/assets/162150b3-3719-4515-ac14-95bcfbd21b93" />
+
 ]
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
