@@ -1,12 +1,12 @@
 # TESTE FACULDADE
 ## _Edição teste
 
-[<img width="474" height="266" alt="image" src="https://github.com/user-attachments/assets/162150b3-3719-4515-ac14-95bcfbd21b93" />
+<img width="474" height="266" alt="image" src="https://github.com/user-attachments/assets/162150b3-3719-4515-ac14-95bcfbd21b93" />
 
-]
 
-(<img width="474" height="266" alt="image" src="https://github.com/user-attachments/assets/08e73efa-e989-4edc-af97-9fc7fd14dd24" />
-)
+
+<img width="474" height="266" alt="image" src="https://github.com/user-attachments/assets/08e73efa-e989-4edc-af97-9fc7fd14dd24" />
+
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
